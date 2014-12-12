@@ -1,4 +1,4 @@
 proteus
 =======
 
-Tes "Proteus Project" from Thoughtbot
+Test "Proteus Project" from Thoughtbot
